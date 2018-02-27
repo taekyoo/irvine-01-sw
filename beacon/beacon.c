@@ -13,7 +13,7 @@
 #define BEACON_PKT_ID         1
 #define BEACON_DST_PORT       2
 #define BEACON_DST_IP_STR     "224.0.0.1"
-#define BEACON_MESSAGE        "IRVINE-01"
+#define BEACON_MESSAGE        "IRVINE-02"
 
 static ProcessData *gProc=NULL;
 
